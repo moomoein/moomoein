@@ -66,19 +66,6 @@ As a 21-year-old student, I am always exploring new technologies and methodologi
 
 ---
 
-### 💡 Current Focus & Learning Path
-
-* 🚀 Mastering advanced **AI-driven development techniques** and integrating them into real-world applications.
-* 探索探索 (Exploring) innovative solutions for **Farsi language NLP projects** and enhancing digital accessibility for Persian users.
-* 🧠 Deepening my knowledge in **[یک تکنولوژی یا پروژه خاص که الان روش کار می‌کنی یا یاد می‌گیری – مثلاً: WebAssembly, a new personal AI project, Advanced React Patterns]**. *(این قسمت رو حتماً با اطلاعات خودت به‌روز کن!)*
-* ⚡ Contributing to open-source projects related to **[حوزه مورد علاقه‌ات – مثلاً: WordPress, AI tools, UI libraries]**.
-
----
-
-### 📊 My Wakatime Stats (Coding Activity)
-
----
-
 ### 🌐 Let's Connect & Collaborate!
 
 I'm always open to discussing new projects, innovative ideas, or opportunities to collaborate. Feel free to reach out!
