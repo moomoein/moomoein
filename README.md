@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 [![Moein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moomoein&show_icons=true&theme=radical&hide_border=true&bg_color=0A0F18&title_color=00FF9C&icon_color=00FF9C&text_color=CDD6F4)](https://github.com/moomoein)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moomoein&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0A0F18&title_color=00FF9C&text_color=CDD6F4)](https://github.com/moomoein)
