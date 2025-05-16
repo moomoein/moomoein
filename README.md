@@ -1,61 +1,47 @@
-<div align="center">
+<p align="center">
   <a href="https://github.com/moomoein">
-    <img src="https://placehold.co/300x300/0a0f18/00ff9c?text=MM&font=vt323" alt="Moein Mehrani Logo" width="150" height="150" style="border-radius: 50%; border: 3px solid #00FF9C;"/>
+    <img src="https://placehold.co/800x300/0a0f18/00ff9c?text=Moein+Mehrani+-+Portfolio+Hub&font=VT323" alt="Moein Mehrani - Portfolio Hub Banner">
     </a>
+</p>
 
-  <h1 style="font-family: 'VT323', monospace; color: #00FF9C; text-shadow: 0 0 5px #00FF9C; letter-spacing: 2px; margin-bottom: 0.5rem;">
-    // MOEIN MEHRANI //
-  </h1>
-
-  <p style="font-family: 'Source Code Pro', monospace; color: #CDD6F4; font-size: 1.1rem;">
-    UI/UX & Product Designer | WordPress Expert | AI-Enhanced Developer
-  </p>
-
-  <p style="font-family: 'Source Code Pro', monospace; color: #A6ADC8; font-size: 0.9rem;">
-    Crafting Digital Experiences where Innovation meets Intuition :: Bridging Design & Development with an AI Edge
-  </p>
-
-  <img src="https://raw.githubusercontent.com/moomoein/moomoein/main/assets/divider-line.svg" alt="divider" style="width: 70%; margin-top: 1rem; margin-bottom: 1rem; opacity: 0.5;"/>
-  </div>
-
----
+<h1 align="center">
+  Hey there, I'm Moein Mehrani <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+</h1>
 
 <p align="center">
-  <a href="https://github.com/moomoein">
-    <img src="https://github-readme-stats.vercel.app/api?username=moomoein&show_icons=true&theme=transparent&hide_border=true&bg_color=0A0F18&title_color=00FF9C&icon_color=00FF9C&text_color=CDD6F4&ring_color=00FF9C&rank_icon=github&card_width=450" alt="Moein's GitHub Stats" style="max-width:100%; margin: 5px;"/>
-  </a>
-  <a href="https://github.com/moomoein">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moomoein&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=0A0F18&title_color=00FF9C&text_color=CDD6F4&card_width=380" alt="Top Languages" style="max-width:100%; margin: 5px;"/>
-  </a>
+  <em>A passionate UI/UX & Product Designer, WordPress Virtuoso, and AI-Enhanced Developer from Iran 🇮🇷</em>
+  <br/>
+  <em>Transforming complex ideas into elegant, user-centric digital experiences.</em>
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=moomoein&theme=radical&hide_border=true&background=0A0F18&ring=00FF9C&fire=00FF9C&currStreakNum=CDD6F4&sideNums=CDD6F4&currStreakLabel=00FF9C&sideLabels=CDD6F4&dates=A6ADC8" alt="GitHub Streak Stats" style="max-width:100%; margin: 5px;"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://hits.dwyl.com/moomoein/moomoein">
-    <img src="https://hits.dwyl.com/moomoein/moomoein.svg?style=flat-square&show=unique&color=00ff9c&label=PROFILE+VIEWS" alt="Profile Views" style="max-width:100%; margin: 5px;"/>
-  </a>
+  <a href="https://github.com/moomoein?tab=followers"><img src="https://img.shields.io/github/followers/moomoein?label=Followers&style=social&logo=github&logoColor=00FF9C" alt="GitHub Followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=moomoein&label=Profile%20Views&color=00ff9c&style=flat-square&logo=github" alt="Profile Views"/>
 </p>
 
 ---
 
-### <samp> GREETINGS, DIGITAL TRAVELER </>
+### 🚀 About Me
 
-<p align="left" style="font-family: 'Source Code Pro', monospace; font-size: 1rem; line-height: 1.6;">
-  I'm Moein Mehrani, a passionate **UI/UX & Product Designer** and **WordPress Expert** with 5-7 years of deep-diving into the digital realm. For the past 3 years, I've been architecting custom WordPress themes and plugins from scratch, always with an eye for innovation and user-centric solutions.
-  <br><br>
-  My current journey involves an exciting fusion of my design and development expertise with the power of **Artificial Intelligence**, leading to an AI-enhanced workflow. I'm particularly enthusiastic about contributing to **Farsi-language projects**, believing there's immense potential for growth and improvement in this space.
-  <br><br>
-  Currently a student (21 y/o), I'm on a perpetual quest for knowledge, constantly learning and exploring new frontiers in technology. Let's connect and build something amazing!
+I'm a dynamic and results-driven **UI/UX & Product Designer** and **WordPress Expert** with 5-7 years of specialized experience in crafting high-quality digital solutions. My core strength lies in transforming complex challenges into intuitive and impactful user experiences, particularly within the WordPress ecosystem.
+
+For the past three years, I've dived deep into **WordPress programming**, developing custom themes and plugins from scratch. I have a keen interest in pioneering **Farsi-language concepts**, believing there's significant potential for innovation in this space.
+
+My development philosophy is rooted in continuous learning and adaptation. I actively embrace an **AI-enhanced development workflow**, leveraging artificial intelligence tools and techniques to optimize the development lifecycle – from initial ideation and design with tools like Figma, to coding and iterative refinement. This AI-assisted approach has been instrumental in successful projects, including the "Ostad Sho" educational theme.
+
+As a 21-year-old student, I am always exploring new technologies and methodologies to push the boundaries of what's possible in web development and design.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moomoein&show_icons=true&theme=radical&hide_border=true&bg_color=0A0F18&title_color=00FF9C&icon_color=00FF9C&text_color=CDD6F4&ring_color=00FF9C&border_color=313A50&cache_seconds=3600" alt="Moein's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moomoein&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0A0F18&title_color=00FF9C&text_color=CDD6F4&border_color=313A50&card_width=320&cache_seconds=3600" alt="Moein's Top Languages" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=moomoein&theme=dark&background=0A0F18&border=313A50&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakNum=CDD6F4&sideNums=CDD6F4&currStreakLabel=00FF9C&sideLabels=CDD6F4&dates=A6ADC8&hide_border=true&cache_seconds=3600" alt="Moein's GitHub Streak" />
 </p>
 
 ---
 
-### <samp> MY TECH ARSENAL // SKILLS_MATRIX </>
+### 🛠️ My Tech Arsenal & Expertise
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -63,67 +49,52 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/UI/UX Design-%23FF72A6.svg?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design"/>
-  <img src="https://img.shields.io/badge/Product Design-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Product Design"/>
-  <img src="https://img.shields.io/badge/AI Integration-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integration"/>
+  <img src="https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor"/>
+  <img src="https://img.shields.io/badge/UI/UX%20Design-%2300FF9C.svg?style=for-the-badge&logo=figma&logoColor=0A0F18" alt="UI/UX Design"/>
+  <img src="https://img.shields.io/badge/Product%20Design-%2300FF9C.svg?style=for-the-badge&logo=behance&logoColor=0A0F18" alt="Product Design"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Elementor-%2392003B.svg?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/AI%20Enhanced%20Dev-%2300A99D.svg?style=for-the-badge&logo=openai&logoColor=white" alt="AI Enhanced Dev"/>
   <img src="https://img.shields.io/badge/SEO-%234CAF50.svg?style=for-the-badge&logo=google&logoColor=white" alt="SEO"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Network%20Fundamentals-%231E90FF.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Fundamentals"/>
 </p>
 
 ---
 
-### <samp> CURRENT_FOCUS // LEARNING_LOGS </>
+### 💡 Current Focus & Learning Path
 
--   🚀 **Working on:** Refining my AI-enhanced development workflow & exploring advanced WordPress plugin architectures.
--   🌱 **Learning:** Deeper into Large Language Models (LLMs) and advanced TypeScript patterns.
--   💡 **Interests:** Innovative Farsi-language digital products, ethical AI, and an open web.
--   🎮 **Fun Fact:** When I'm not coding or designing, I'm probably [Your Fun Fact/Hobby Here - e.g., exploring new tech, gaming, reading sci-fi].
+* 🚀 Mastering advanced **AI-driven development techniques** and integrating them into real-world applications.
+* 探索探索 (Exploring) innovative solutions for **Farsi language NLP projects** and enhancing digital accessibility for Persian users.
+* 🧠 Deepening my knowledge in **[یک تکنولوژی یا پروژه خاص که الان روش کار می‌کنی یا یاد می‌گیری – مثلاً: WebAssembly, a new personal AI project, Advanced React Patterns]**. *(این قسمت رو حتماً با اطلاعات خودت به‌روز کن!)*
+* ⚡ Contributing to open-source projects related to **[حوزه مورد علاقه‌ات – مثلاً: WordPress, AI tools, UI libraries]**.
 
 ---
 
-### <samp> LATEST_ACTIVITY // BLOG_UPLOADS </>
+### 📊 My Wakatime Stats (Coding Activity)
 
-<p align="center"><i>Loading latest blog posts... or visit my blog at [Your Blog Link]</i></p>
 ---
 
-### <samp> CODING_ACTIVITY // WAKATIME_STATS </>
+### 🌐 Let's Connect & Collaborate!
 
-<p align="center"><i>Coding activity stats coming soon...</i></p>
----
+I'm always open to discussing new projects, innovative ideas, or opportunities to collaborate. Feel free to reach out!
 
-### <samp> ESTABLISH_CONNECTION // CONNECT_WITH_ME </>
-
-<p align="center" style="margin-top: 20px; display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
-  <a href="https://github.com/moomoein" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=00FF9C" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00FF9C" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=00FF9C" alt="Instagram"/>
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=00FF9C" alt="Telegram"/>
-  </a>
-  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER_WITH_COUNTRY_CODE" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=00FF9C" alt="WhatsApp"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00FF9C" alt="Email"/>
-  </a>
+<p align="center">
+  <a href="https://github.com/moomoein" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=0A0F18&link=https://github.com/moomoein" alt="GitHub"></a>
+  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="YOUR_INSTAGRAM_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="YOUR_TELEGRAM_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="YOUR_WHATSAPP_LINK_OR_NUMBER_HERE" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-<div align="center" style="font-family: 'Source Code Pro', monospace; color: #A6ADC8; font-size: 0.8rem; margin-top: 30px;">
-  <samp>// System_Log: Profile_Loaded_Successfully :: Status_OK //</samp><br>
-  <samp>// Always_Learning_Always_Building //</samp>
-</div>
+<p align="center" style="font-family: var(--font-secondary); color: var(--text-secondary-color);">
+  "The intersection of creativity and technology is where innovation thrives." <br/>
+  Let's build something amazing together! ⚡
+</p>
