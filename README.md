@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://github.com/moomoein">
-    <img src="https://placehold.co/800x300/0a0f18/00ff9c?text=Moein+Mehrani+-+Portfolio+Hub&font=VT323" alt="Moein Mehrani - Portfolio Hub Banner">
-    </a>
-</p>
 
 <h1 align="center">
   Hey there, I'm Moein Mehrani <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
